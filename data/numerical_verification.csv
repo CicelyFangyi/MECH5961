@@ -1,0 +1,3 @@
+frequency_step_Hz,end_correction_terms,J,delta_J
+1,40,0.927497761485022,0
+0.25,80,0.927471953733226,-2.58077517963917e-05

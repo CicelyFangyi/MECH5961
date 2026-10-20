@@ -1,0 +1,7 @@
+design_id,type_name,cell_count,cavity_depth_mm,neck_radius_mm,neck_extension_mm
+baseline,Type 1,16,10.699,0.6025,0
+best_two_type,Type 1,8,19.098,0.7494,0
+best_two_type,Type 2,8,12.834,0.7717,0
+final,Type 1,7,20,0.7397,0
+final,Type 2,5,17.229,0.8266,0
+final,Type 3,4,18.468,1.0278,0
