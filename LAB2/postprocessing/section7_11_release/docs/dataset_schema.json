@@ -1,0 +1,458 @@
+[
+  {
+    "file": "geometry.mat",
+    "field": "xy",
+    "shape": [
+      56,
+      2
+    ],
+    "dtype": "float64",
+    "units": "m"
+  },
+  {
+    "file": "geometry.mat",
+    "field": "x",
+    "shape": [
+      301
+    ],
+    "dtype": "float64",
+    "units": "m"
+  },
+  {
+    "file": "geometry.mat",
+    "field": "xb",
+    "shape": [
+      151
+    ],
+    "dtype": "float64",
+    "units": "m"
+  },
+  {
+    "file": "geometry.mat",
+    "field": "xf",
+    "shape": [
+      601
+    ],
+    "dtype": "float64",
+    "units": "m"
+  },
+  {
+    "file": "geometry.mat",
+    "field": "frequencies",
+    "shape": [
+      21
+    ],
+    "dtype": "uint16",
+    "units": "Hz"
+  },
+  {
+    "file": "geometry.mat",
+    "field": "fs",
+    "shape": [],
+    "dtype": "int64",
+    "units": "Hz"
+  },
+  {
+    "file": "geometry.mat",
+    "field": "L",
+    "shape": [],
+    "dtype": "int64",
+    "units": "samples"
+  },
+  {
+    "file": "geometry.mat",
+    "field": "c0",
+    "shape": [],
+    "dtype": "int64",
+    "units": "m/s"
+  },
+  {
+    "file": "geometry.mat",
+    "field": "h",
+    "shape": [],
+    "dtype": "int64",
+    "units": "m"
+  },
+  {
+    "file": "run0.mat",
+    "field": "run",
+    "shape": [],
+    "dtype": "int64",
+    "units": "identifier"
+  },
+  {
+    "file": "run0.mat",
+    "field": "f",
+    "shape": [
+      21
+    ],
+    "dtype": "uint16",
+    "units": "Hz"
+  },
+  {
+    "file": "run0.mat",
+    "field": "C",
+    "shape": [
+      56,
+      56,
+      21
+    ],
+    "dtype": "complex128",
+    "units": "Pa^2 per FFT bin"
+  },
+  {
+    "file": "run0.mat",
+    "field": "macroCSM",
+    "shape": [
+      56,
+      56,
+      21,
+      5
+    ],
+    "dtype": "complex128",
+    "units": "Pa^2 per FFT bin"
+  },
+  {
+    "file": "run0.mat",
+    "field": "meanMaps",
+    "shape": [
+      301,
+      301,
+      21
+    ],
+    "dtype": "float64",
+    "units": "Pa^2 m^2 under 1/(4 pi r) Green function"
+  },
+  {
+    "file": "run0.mat",
+    "field": "macroMaps",
+    "shape": [
+      151,
+      151,
+      21,
+      5
+    ],
+    "dtype": "float64",
+    "units": "Pa^2 m^2 under 1/(4 pi r) Green function"
+  },
+  {
+    "file": "run0.mat",
+    "field": "fineF",
+    "shape": [
+      3
+    ],
+    "dtype": "uint16",
+    "units": "Hz"
+  },
+  {
+    "file": "run0.mat",
+    "field": "fineMaps",
+    "shape": [
+      601,
+      601,
+      3
+    ],
+    "dtype": "float64",
+    "units": "Pa^2 m^2 under 1/(4 pi r) Green function"
+  },
+  {
+    "file": "run0.mat",
+    "field": "referenceDeviation",
+    "shape": [
+      3
+    ],
+    "dtype": "uint8",
+    "units": "dimensionless"
+  },
+  {
+    "file": "run1.mat",
+    "field": "run",
+    "shape": [],
+    "dtype": "int64",
+    "units": "identifier"
+  },
+  {
+    "file": "run1.mat",
+    "field": "f",
+    "shape": [
+      21
+    ],
+    "dtype": "uint16",
+    "units": "Hz"
+  },
+  {
+    "file": "run1.mat",
+    "field": "C",
+    "shape": [
+      56,
+      56,
+      21
+    ],
+    "dtype": "complex128",
+    "units": "Pa^2 per FFT bin"
+  },
+  {
+    "file": "run1.mat",
+    "field": "macroCSM",
+    "shape": [
+      56,
+      56,
+      21,
+      5
+    ],
+    "dtype": "complex128",
+    "units": "Pa^2 per FFT bin"
+  },
+  {
+    "file": "run1.mat",
+    "field": "meanMaps",
+    "shape": [
+      301,
+      301,
+      21
+    ],
+    "dtype": "float64",
+    "units": "Pa^2 m^2 under 1/(4 pi r) Green function"
+  },
+  {
+    "file": "run1.mat",
+    "field": "macroMaps",
+    "shape": [
+      151,
+      151,
+      21,
+      5
+    ],
+    "dtype": "float64",
+    "units": "Pa^2 m^2 under 1/(4 pi r) Green function"
+  },
+  {
+    "file": "run1.mat",
+    "field": "fineF",
+    "shape": [
+      3
+    ],
+    "dtype": "uint16",
+    "units": "Hz"
+  },
+  {
+    "file": "run1.mat",
+    "field": "fineMaps",
+    "shape": [
+      601,
+      601,
+      3
+    ],
+    "dtype": "float64",
+    "units": "Pa^2 m^2 under 1/(4 pi r) Green function"
+  },
+  {
+    "file": "run1.mat",
+    "field": "referenceDeviation",
+    "shape": [
+      3
+    ],
+    "dtype": "uint8",
+    "units": "dimensionless"
+  },
+  {
+    "file": "run2.mat",
+    "field": "run",
+    "shape": [],
+    "dtype": "int64",
+    "units": "identifier"
+  },
+  {
+    "file": "run2.mat",
+    "field": "f",
+    "shape": [
+      21
+    ],
+    "dtype": "uint16",
+    "units": "Hz"
+  },
+  {
+    "file": "run2.mat",
+    "field": "C",
+    "shape": [
+      56,
+      56,
+      21
+    ],
+    "dtype": "complex128",
+    "units": "Pa^2 per FFT bin"
+  },
+  {
+    "file": "run2.mat",
+    "field": "macroCSM",
+    "shape": [
+      56,
+      56,
+      21,
+      5
+    ],
+    "dtype": "complex128",
+    "units": "Pa^2 per FFT bin"
+  },
+  {
+    "file": "run2.mat",
+    "field": "meanMaps",
+    "shape": [
+      301,
+      301,
+      21
+    ],
+    "dtype": "float64",
+    "units": "Pa^2 m^2 under 1/(4 pi r) Green function"
+  },
+  {
+    "file": "run2.mat",
+    "field": "macroMaps",
+    "shape": [
+      151,
+      151,
+      21,
+      5
+    ],
+    "dtype": "float64",
+    "units": "Pa^2 m^2 under 1/(4 pi r) Green function"
+  },
+  {
+    "file": "run2.mat",
+    "field": "fineF",
+    "shape": [
+      3
+    ],
+    "dtype": "uint16",
+    "units": "Hz"
+  },
+  {
+    "file": "run2.mat",
+    "field": "fineMaps",
+    "shape": [
+      601,
+      601,
+      3
+    ],
+    "dtype": "float64",
+    "units": "Pa^2 m^2 under 1/(4 pi r) Green function"
+  },
+  {
+    "file": "run2.mat",
+    "field": "referenceDeviation",
+    "shape": [
+      3
+    ],
+    "dtype": "uint8",
+    "units": "dimensionless"
+  },
+  {
+    "file": "run3.mat",
+    "field": "run",
+    "shape": [],
+    "dtype": "int64",
+    "units": "identifier"
+  },
+  {
+    "file": "run3.mat",
+    "field": "f",
+    "shape": [
+      3
+    ],
+    "dtype": "uint16",
+    "units": "Hz"
+  },
+  {
+    "file": "run3.mat",
+    "field": "spectrumFrequency",
+    "shape": [
+      5001
+    ],
+    "dtype": "uint16",
+    "units": "Hz"
+  },
+  {
+    "file": "run3.mat",
+    "field": "spectrumPower",
+    "shape": [
+      5001
+    ],
+    "dtype": "float64",
+    "units": "Pa^2 per FFT bin"
+  },
+  {
+    "file": "run3.mat",
+    "field": "C",
+    "shape": [
+      56,
+      56,
+      3
+    ],
+    "dtype": "complex128",
+    "units": "Pa^2 per FFT bin"
+  },
+  {
+    "file": "run3.mat",
+    "field": "macroCSM",
+    "shape": [
+      56,
+      56,
+      3,
+      5
+    ],
+    "dtype": "complex128",
+    "units": "Pa^2 per FFT bin"
+  },
+  {
+    "file": "run3.mat",
+    "field": "meanMaps",
+    "shape": [
+      301,
+      301,
+      3
+    ],
+    "dtype": "float64",
+    "units": "Pa^2 m^2 under 1/(4 pi r) Green function"
+  },
+  {
+    "file": "run3.mat",
+    "field": "macroMaps",
+    "shape": [
+      151,
+      151,
+      3,
+      5
+    ],
+    "dtype": "float64",
+    "units": "Pa^2 m^2 under 1/(4 pi r) Green function"
+  },
+  {
+    "file": "run3.mat",
+    "field": "fineF",
+    "shape": [
+      3
+    ],
+    "dtype": "uint16",
+    "units": "Hz"
+  },
+  {
+    "file": "run3.mat",
+    "field": "fineMaps",
+    "shape": [
+      601,
+      601,
+      3
+    ],
+    "dtype": "float64",
+    "units": "Pa^2 m^2 under 1/(4 pi r) Green function"
+  },
+  {
+    "file": "run3.mat",
+    "field": "referenceDeviation",
+    "shape": [
+      3
+    ],
+    "dtype": "uint8",
+    "units": "dimensionless"
+  }
+]

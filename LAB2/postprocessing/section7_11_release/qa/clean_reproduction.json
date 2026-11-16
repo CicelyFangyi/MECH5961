@@ -1,0 +1,130 @@
+{
+  "clean_venv": true,
+  "outside_release_input_used": false,
+  "csv_and_png_identical": true,
+  "files": [
+    {
+      "file": "F11A_two_source_profiles.pdf",
+      "byte_identical": true
+    },
+    {
+      "file": "F11A_two_source_profiles.png",
+      "byte_identical": true,
+      "max_pixel_difference": 0
+    },
+    {
+      "file": "F11A_two_source_profiles.svg",
+      "byte_identical": false
+    },
+    {
+      "file": "F11B_robust_resolvability.pdf",
+      "byte_identical": true
+    },
+    {
+      "file": "F11B_robust_resolvability.png",
+      "byte_identical": true,
+      "max_pixel_difference": 0
+    },
+    {
+      "file": "F11B_robust_resolvability.svg",
+      "byte_identical": false
+    },
+    {
+      "file": "F11C_propeller_spectrum.pdf",
+      "byte_identical": true
+    },
+    {
+      "file": "F11C_propeller_spectrum.png",
+      "byte_identical": true,
+      "max_pixel_difference": 0
+    },
+    {
+      "file": "F11C_propeller_spectrum.svg",
+      "byte_identical": false
+    },
+    {
+      "file": "F11D_propeller_profiles.pdf",
+      "byte_identical": true
+    },
+    {
+      "file": "F11D_propeller_profiles.png",
+      "byte_identical": true,
+      "max_pixel_difference": 0
+    },
+    {
+      "file": "F11D_propeller_profiles.svg",
+      "byte_identical": false
+    },
+    {
+      "file": "F11E_nominal_error.pdf",
+      "byte_identical": true
+    },
+    {
+      "file": "F11E_nominal_error.png",
+      "byte_identical": true,
+      "max_pixel_difference": 0
+    },
+    {
+      "file": "F11E_nominal_error.svg",
+      "byte_identical": false
+    },
+    {
+      "file": "F7A_array_geometry.pdf",
+      "byte_identical": true
+    },
+    {
+      "file": "F7A_array_geometry.png",
+      "byte_identical": true,
+      "max_pixel_difference": 0
+    },
+    {
+      "file": "F7A_array_geometry.svg",
+      "byte_identical": false
+    },
+    {
+      "file": "F7B_four_source_geometries.pdf",
+      "byte_identical": true
+    },
+    {
+      "file": "F7B_four_source_geometries.png",
+      "byte_identical": true,
+      "max_pixel_difference": 0
+    },
+    {
+      "file": "F7B_four_source_geometries.svg",
+      "byte_identical": false
+    },
+    {
+      "file": "FIGURE_TABLE_MANIFEST.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "T11_frequency_evidence.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "T11_onset_summary.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "T11_peak_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "T11_position_accuracy.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "T11_propeller_frequency_summary.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "T11_resolution_summary.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "T7_acquisition_geometry.csv",
+      "byte_identical": true
+    }
+  ]
+}

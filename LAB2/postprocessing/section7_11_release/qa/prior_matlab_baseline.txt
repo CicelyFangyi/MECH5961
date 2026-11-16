@@ -1,0 +1,5 @@
+PASS: RMS tone, Parseval, Hann energy normalization, fft_p peak convention, CSM Hermitian/PSD, synthetic location.
+Real record 0, entries 3:58, code-assumed fs=50000 Hz; 500000 samples; 50 x 10000; 3000 Hz.
+CSM relative error 0; 21x21 map relative error 1.6822795596380225e-16
+Legacy fft_p_blockaverage(fs=50000,Tend=10) expected failure: Index exceeds the number of array elements. Index must not exceed 10000.
+This validates present CBF equations, not provenance of teacher original, physical units or case identity.
