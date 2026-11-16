@@ -1,0 +1,3 @@
+run,separation_m,f_onset_Hz,first_coarse_sustained_candidate_Hz,scan_step_Hz,FFT_bin_Hz,consecutive_frequencies_required,later_coarse_losses_Hz,reason
+2,0.4,indeterminate,1750,250,5,3,,Coarse candidate only: dense 601-grid neighborhood and time-block independence not established; no physical onset claimed
+1,0.2,indeterminate,3750,250,5,3,,Coarse candidate only: dense 601-grid neighborhood and time-block independence not established; no physical onset claimed

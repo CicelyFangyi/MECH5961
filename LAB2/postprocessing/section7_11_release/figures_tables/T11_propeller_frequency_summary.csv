@@ -1,4 +1,0 @@
-frequency_Hz,SPL_estimate_dB_re20uPa,peak_x_m,peak_y_m,x_minima_span_m,y_minima_span_m,selection,calibration
-2000,54.2053293387179,0.030000000000000002,0.03833333333333334,,,Prominent spectral feature,Pa metadata; sensitivity calibration chain unverified
-3000,49.21785173152638,0.05333333333333334,0.03833333333333334,0.79,0.7333333333333334,Prominent spectral feature,Pa metadata; sensitivity calibration chain unverified
-6185,45.75356085118659,0.04,0.07500000000000001,0.41833333333333333,0.41833333333333333,Strongest band bin; mechanism unassigned,Pa metadata; sensitivity calibration chain unverified

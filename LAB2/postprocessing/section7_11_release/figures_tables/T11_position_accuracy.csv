@@ -1,7 +1,0 @@
-run,separation_m,frequency_Hz,source,nominal_x_m,nominal_y_m,x_m,y_m,error_m,interpretation
-2,0.4,3000,1,-0.2,0,-0.20333333333333334,0.018333333333333333,0.018633899812498245,Nominal geometry; physical channel wiring unverified
-2,0.4,3000,2,0.2,0,0.23333333333333334,0.025,0.041666666666666664,Nominal geometry; physical channel wiring unverified
-2,0.4,6000,1,-0.2,0,-0.2,0.02,0.02,Nominal geometry; physical channel wiring unverified
-2,0.4,6000,2,0.2,0,0.21333333333333335,0.030000000000000002,0.03282952600598702,Nominal geometry; physical channel wiring unverified
-1,0.2,6000,1,-0.2,0,-0.19666666666666668,0.018333333333333333,0.018633899812498245,Nominal geometry; physical channel wiring unverified
-1,0.2,6000,2,0,0,0.015000000000000001,0.030000000000000002,0.03354101966249685,Nominal geometry; physical channel wiring unverified

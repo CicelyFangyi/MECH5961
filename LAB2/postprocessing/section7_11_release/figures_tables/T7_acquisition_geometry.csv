@@ -1,5 +1,0 @@
-run,condition,channels,sample_count,nominal_fs_Hz,metadata_fs_Hz,duration_s,source_x_m,h_m,array_Dx_m,array_Dy_m,array_Dmax_m,blades,rotation_rev_s,BPF_Hz,calibration,channel_order
-0,Single loudspeaker,56,500000,50000,50000.0000101864,10,unknown,not independently recorded,0.672549007,0.6814600710000001,0.6824495395314152,,,,Unverified chain; stored Pascals,Sound Pressure_0..55 to coordinate rows 1..56; physical wiring unverified
-1,Two loudspeakers,56,500000,50000,50000.0000101864,10,-0.20;0.00,1,0.672549007,0.6814600710000001,0.6824495395314152,,,,Unverified chain; stored Pascals,Sound Pressure_0..55 to coordinate rows 1..56; physical wiring unverified
-2,Two loudspeakers,56,500000,50000,50000.0000101864,10,-0.20;0.20,1,0.672549007,0.6814600710000001,0.6824495395314152,,,,Unverified chain; stored Pascals,Sound Pressure_0..55 to coordinate rows 1..56; physical wiring unverified
-3,Two-bladed propeller,56,500000,50000,50000.0000101864,10,unknown,not independently recorded,0.672549007,0.6814600710000001,0.6824495395314152,2,100,200,Unverified chain; stored Pascals,Sound Pressure_0..55 to coordinate rows 1..56; physical wiring unverified
